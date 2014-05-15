@@ -1,6 +1,6 @@
 <?php 
 	echo "Ola mundo ";
 	
-	$corLayout = "vermelho";
+	$corLayout = "AGORA o layout passou a ser amarelo";
 ?>
 
